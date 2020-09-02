@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sahil0094 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sahil0094 | Medium" width="30px" src="https://github.com/sahil0094/sahil0094/blob/master/images/download.png" />][medium]
+[<img align="left" alt="sahil0094 | Medium" width="30px" src="https://github.com/sahil0094/sahil0094/blob/master/images/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
