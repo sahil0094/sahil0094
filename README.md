@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/sahil0094/sahil0094/tree/master/images/jupyter.png" />]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/sahil0094/sahil0094/blob/master/images/jupyter.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="scikit" width="26px" src="https://github.com/sahil0094/sahil0094/tree/master/images/scikit.png" />]
