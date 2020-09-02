@@ -19,7 +19,7 @@
 <img align="left" alt="SQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="scikit" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/scikit.png" />
-<img align="left" alt="Tableau" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/tableau.png" />
+<img align="left" alt="Tableau" width="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
 <img align="left" alt="python" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/python.jpeg" />
 <img align="left" alt="Matplotlib" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/matplot.png" />
 <img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
