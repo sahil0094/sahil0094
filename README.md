@@ -29,7 +29,6 @@
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sahil0094)](https://github.com/sahil0094/github-readme-stats)
 <details>
 <summary>:zap: Github Stats</summary>
 
