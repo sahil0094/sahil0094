@@ -28,9 +28,9 @@
 <br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahil0094&show_icons=true&hide_border=true" />
+  <img align="left" alt="Infinity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahil0094&show_icons=true&hide_border=true" />
 
 </details>
 
