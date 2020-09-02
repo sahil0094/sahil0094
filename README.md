@@ -21,6 +21,7 @@
 [<img align="left" alt="scikit" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/scikit.png" />]
 [<img align="left" alt="Tableau" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/tableau.png" />]
 [<img align="left" alt="python" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/python.jpeg" />]
+[<img align="left" alt="Matplotlib" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/matplot.png" />]
 [<img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="java" width="56px" src="https://github.com/sahil0094/sahil0094/blob/master/images/java.png" />]
 
