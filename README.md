@@ -2,9 +2,9 @@
 
 ### I'm a Data Science Aspirant
 
-- 🔭 I’m currently looking for work in Data Science Field
+- 🔭 I’m currently working as an Analytics Consultant
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn Deep Learning
 - ⚡ Fun fact: I love to play football
 
 ### Connect with me:
