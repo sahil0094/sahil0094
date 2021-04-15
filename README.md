@@ -1,6 +1,6 @@
 ## Hi there, I'm Sahil 👋
 
-### I'm a Data Science Aspirant
+### I'm a Data Scientist
 
 - 🔭 I’m currently working as an Analytics Consultant
 - 🌱 I’m currently learning everything 🤣
