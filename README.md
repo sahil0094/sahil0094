@@ -2,9 +2,8 @@
 
 ### I'm a Data Scientist
 
-- 🔭 I’m currently working as an Senior Data Scientist at PwC
-- 🌱 I’m currently working on implementing Gen AI for business in production
-- 🥅 2023 Goals: Create Secondary source of income
+- 🔭 I’m currently working as an Data Scientist at EXL
+- 🌱 I’m currently working on implementing Gen AI projects
 - ⚡ Fun fact: I love to play football
 
 ### Connect with me:
